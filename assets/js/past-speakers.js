@@ -1,5 +1,38 @@
 var past_speakers = [
   {
+    'name': 'Archana Singh',
+    'image': 'ArchanaSingh.png'
+  },
+  {
+    'name': 'Arshi Yasin',
+    'image': 'ArshiYasin.png'
+  },
+  {
+    'name': 'Asha Thadani',
+    'image': 'AshaThadani.png'
+  },
+  {
+    'name': 'Capt. Naveen Nagappa',
+    'image': 'Capt.NaveenNagappa.png'
+  },
+  {
+    'name': 'Dr. Kantharaju CK',
+    'image': 'Dr.C.K. Kantharaju.png'
+  },
+  {
+    'name': 'Gangadhar Patil',
+    'image': 'GangadharPatil.png'
+  },
+  {
+    'name': 'Sapthami Gowda',
+    'image': 'SapthamiGowda.png'
+  },
+  {
+    'name': 'Nandini Shankar',
+    'image': 'NandiniShankar.png'
+  },
+  
+  {
     'name': 'Vishak Nair',
     'image': 'vishak.jpeg'
   },
@@ -150,37 +183,11 @@ var past_speakers = [
   {
     'name': 'Pulapre Balakrishnan',
     'image': 'pulapre.jpeg'
-  },
-  {
-    'name': 'Capt. Naveen Nagappa',
-    'image': 'Capt.NaveenNagappa.png'
-  },
-  {
-    'name': 'Dr. Kantharaju CK',
-    'image': 'Dr.C.K. Kantharaju.png'
-  },
-  {
-    'name': 'Sapthami Gowda',
-    'image': 'SapthamiGowda.png'
-  },
-  {
-    'name': 'Nandini Shankar',
-    'image': 'NandiniShankar.png'
-  },
-  {
-    'name': 'Archana Singh',
-    'image': 'ArchanaSingh.png'
-  },
-  {
-    'name': 'Gangadhar Patil',
-    'image': 'GangadharPatil.png'
-  },
-  {
-    'name': 'Asha Thadani',
-    'image': 'AshaThadani.png'
-  },
-  {
-    'name': 'Arshi Yasin',
-    'image': 'ArshiYasin.png'
   }
+  
+  
+  
+  
+  
+  
 ]
