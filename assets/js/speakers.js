@@ -1,5 +1,5 @@
 var speakers = [
-  /*
+  
   {
     name: 'Dr. Dharmaraj Topaz',
     title: 'Neuro-Psychologist',
@@ -33,5 +33,5 @@ var speakers = [
     show_after: '2021-02-04T09:30:00+000',
     img_link: '',
   },
-  */
+  
 ];
